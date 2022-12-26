@@ -9,7 +9,7 @@ This app provides a short introduction of the student, allowing them to tell the
 
 ### App Walk-though
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-a8c2b37a8b.gif" width=200><br>
+<img src="![simulator](https://user-images.githubusercontent.com/121317176/209507004-f6c2373f-52bc-4fbb-a802-ee39a42867cd.gif)" width=200><br>
 
 
 ### Required Features
